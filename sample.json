@@ -1,0 +1,19 @@
+[{
+    "name":"virat",
+    "email":"virat@hotmail.com",
+    "contact":"8883337771",
+    "courseCount":9,
+    "isVerified":true
+},{
+    "name":"dhoni",
+    "email":"dhoni@gmail.com",
+    "contact":"8883337772",
+    "courseCount":5,
+    "isVerified":true   
+},{
+    "name":"rohit",
+    "email":"rohit@yahoo.com",
+    "contact":"8873337772",
+    "courseCount":1,
+    "isVerified":false  
+}]
